@@ -1,0 +1,19 @@
+.gradient {
+  background: linear-gradient(120deg,#1f9502,#0ea0ff);
+  color: #fff;
+}
+
+.portfolio-laptop-mockup .screen .screen-content {
+  height: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.portfolio-laptop-mockup .screen {
+  width: 180px;
+}
+
+.portfolio-laptop-mockup .keyboard {
+  width: 210px;
+}
+
