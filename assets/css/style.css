@@ -17,3 +17,21 @@
   width: 210px;
 }
 
+#bg {
+  background-image: url;
+}
+
+.portfolio-block.block-intro {
+}
+
+.portfolio-navbar.fixed-top + .page {
+}
+
+#mom {
+  font-size: 40px;
+  color: rgb(43,147,25);
+  font-family: cursive;
+  font-style: italic;
+  font-weight: 800;
+}
+
