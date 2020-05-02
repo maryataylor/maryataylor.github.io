@@ -35,3 +35,25 @@
   font-weight: 800;
 }
 
+.navbar-dark .navbar-brand, .navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-nav .nav-link {
+}
+
+#mom {
+}
+
+#mom {
+  padding-top: 150px;
+}
+
+#left {
+  padding-left: 150px;
+}
+
+#right {
+  padding-right: 150px;
+  margin-right: 100px;
+}
+
+.col-md-12.col-lg-5 {
+}
+
